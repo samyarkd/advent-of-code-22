@@ -57,6 +57,8 @@ data.forEach((strategy) => {
 console.log("myScore: ", myScore);
 console.log("opponentScore: ", opponentScore);
 
+// P2
+
 myScore = 0;
 opponentScore = 0;
 
